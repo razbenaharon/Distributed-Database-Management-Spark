@@ -1,6 +1,5 @@
 # Distributed Database Management - Spark
 1.	Data Preprocessing:
-
 •	Normalized numerical variables and applied one-hot encoding to categorical variables.
 This ensures fair comparison between features and prevents misinterpretation of categorical data. It's crucial for accurate modeling and analysis, especially when dealing with diverse demographic data.
 3.	Dimensionality Reduction:
